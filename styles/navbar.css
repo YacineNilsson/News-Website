@@ -239,7 +239,9 @@ nav {
     padding: 10px 0px;
     margin-left: 0px;
   }
-
+  .nav-dropdown-container{
+    margin-left: 183px;
+  }
 }
 
 
